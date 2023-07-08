@@ -1,0 +1,35 @@
+* {
+    box-sizing: border-box;
+}
+form > *:not(.results) {
+    margin-bottom: 10px;
+    width: 100%;
+    max-width: 500px;
+    height: 35px;
+    border: 1px solid #aaa;
+    font-size: 14px;
+    padding: 5px;
+}
+form input[type="submit"] {
+    background-color: #009688;
+    color: white;
+    font-weight: bold;
+}
+.results {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.results > * {
+    display: grid;
+    place-items: center;
+    padding: 15px;
+    font-size: 20px;
+    border-radius: 7px;
+    margin-bottom: 10px;
+    flex-basis: calc((100% - 60px) / 3);
+    background-color: #f44336;
+    color: white;
+}
