@@ -23,8 +23,8 @@ submit.addEventListener("click", (e) => {
 if (localStorage.tasks) {
     tasks.forEach((ele) => {
         add(ele);
-        del(document.querySelectorAll("button"));
     });
+    del(document.querySelectorAll("button"));
 }
 
 function add(ele) {
