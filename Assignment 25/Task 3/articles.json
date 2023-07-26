@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "writer": "Someone",
+        "article type": "Games",
+        "article title": "How to be a gamer",
+        "article content": "Awesome long text"
+    },
+    {
+        "id": 2,
+        "writer": "Someone",
+        "article type": "Health",
+        "article title": "How to be a healthy person",
+        "article content": "Awesome long text"
+    },
+    {
+        "id": 3,
+        "writer": "Someone",
+        "article type": "sports",
+        "article title": "How to a football player",
+        "article content": "Awesome long text"
+    },
+    {
+        "id": 4,
+        "writer": "Someone",
+        "article type": "Tech",
+        "article title": "How to buy a new phone",
+        "article content": "Awesome long text"
+    },
+    {
+        "id": 5,
+        "writer": "Someone",
+        "article type": "Games",
+        "article title": "How to be a gamer part 2",
+        "article content": "Awesome long text"
+    }
+]
